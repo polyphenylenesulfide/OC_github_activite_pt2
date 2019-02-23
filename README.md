@@ -1,4 +1,4 @@
-# OC_github_activite_pt2
+# Activité : Mise en pratique des deux premières partie du cours sur git/github
 
 Mise en pratique des des premières parties du cours sur git/github (openclassrooms)
 
